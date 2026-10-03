@@ -1,0 +1,19 @@
+{
+  "name": "det-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "لوحة تحضير امتحان Duolingo English Test — تعمل بدون إنترنت",
+  "scripts": {
+    "android:add": "cap add android",
+    "android:assets": "capacitor-assets generate --android",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0"
+  }
+}

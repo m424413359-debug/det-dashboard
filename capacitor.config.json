@@ -1,0 +1,8 @@
+{
+  "appId": "com.ahmednahhal.detprep",
+  "appName": "تحضير الدولينجو",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#E7ECEA"
+  }
+}
